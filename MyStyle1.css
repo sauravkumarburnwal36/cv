@@ -1,0 +1,104 @@
+body
+{
+	background:#ccf0e1;
+}
+.t2
+{
+	width:60%;
+	margin:40px auto;	
+}
+.img
+{
+	width:30%;
+	margin:10px auto;
+	padding-left:140px;	
+}
+.p1
+{
+	width:30%;
+	margin:10px auto 30px;
+}
+.p3
+{
+	width:40%;
+	margin:10px auto 40px;
+}
+table
+{
+	text-align:center;	
+}	
+.p2
+{
+	width:40%;
+	margin:10px auto 40px;
+}
+.s1
+{
+	color:#721b65;
+	font-family:'DM Serif Display', serif;
+	font-weight:bold;
+}
+h1
+{
+	text-align:center;
+	color:#084177;
+	font-family: 'Mr Dafoe', cursive;	
+}
+h3
+{
+	text-align:center;
+	color:#084177;
+	font-family: 'Merriweather', serif;
+}
+
+table
+{
+	text-align:center;
+}
+hr
+{
+	width:10%;
+	border-style:dotted;
+	border-bottom:none;
+}
+
+.ul
+{
+	line-height:2;
+	width:15%;
+	margin:10px auto 30px;
+}
+.ul1
+{
+	line-height:2;
+	width:50%;
+	margin:10px auto;
+	padding-bottom:20px;
+}
+
+.second-p
+{
+	width:30%;
+	margin:10px auto;
+}
+.anchor
+{
+	align:left;
+	text-decoration:none;
+	padding-left:10px;
+}
+.last
+{
+	text-align:center;
+}
+.last-p
+{
+	text-align:center;
+}
+.a
+{
+	font-weight:bold;
+	text-decoration:blink;
+}
+
+	
